@@ -1,5 +1,5 @@
-# PaloAlto-LB-Suite
-This repo will build out all necessary resources for testing a palo alto with a load balancer
+# PaloAlto-LB-Suite - AZ
+This repo will build out all necessary resources for testing a palo alto with a load balancer in Azure !
 
 It will have a load balancer, 3 seperate subnets (/27's), a vnet (10.0.0.0/24), routing will be pressing internet traffic for default and making the trust traffic head out the trust interface to the core network.
 
